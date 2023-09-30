@@ -1,0 +1,41 @@
+body {
+  background-color:darkgreen  
+}
+
+.square {
+  float: left;
+  width: 30%;
+  height: 0;
+  padding-bottom: 30%;
+  background-color: rgb(222, 184, 135);
+  margin: 5px;
+}
+
+.uno {
+  color: rgb(238, 255, 0);
+}
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+#message{
+    color: white;
+
+}
+
+#stripe{
+    background-color: grey;
+    height: 30px;
+    text-align: center;
+}
+
+.selected{
+  background-color: red;
+}
